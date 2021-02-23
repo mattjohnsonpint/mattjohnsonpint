@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-If you're looking for @mj1856, that's me!  (I recently changed my GitHub and Twitter handles to match my updated married name.)
-
 If you're reading this, you're probably interested in one of these repositorites:
 
 #### Time Zone Libraries
@@ -11,3 +9,6 @@ If you're reading this, you're probably interested in one of these repositorites
 - [GeoTimeZone](https://github.com/mattjohnsonpint/GeoTimeZone)
 
 I have a few other projects on this site, but those are the main ones I'm still actively maintaining.
+
+
+*If you're looking for @mj1856, that's also me!  (I recently changed my GitHub and Twitter handles to match my updated married name.)*
